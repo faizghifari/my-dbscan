@@ -1,1 +1,3 @@
-# my-dbscan
+# MyDBSCAN
+
+Implementation of DBSCAN Clustering
